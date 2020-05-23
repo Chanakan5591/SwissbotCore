@@ -154,7 +154,7 @@ namespace SwissbotCore.Handlers
                                     {
                                         { new EmbedFieldBuilder(){
                                         Name = "To appeal",
-                                        Value = "https://neoney.xyz/swiss001/unban"
+                                        Value = "https://neoney.xyz/swiss001/unban" //Outdated URL, will change this when quin host another appeal website
                                         } }
                                     },
                             }.Build());
