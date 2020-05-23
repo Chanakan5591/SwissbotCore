@@ -22,7 +22,7 @@ namespace SwissbotCore.Handlers
                 EmbedBuilder b = new EmbedBuilder()
                 {
                     Title = "Alt Alert",
-                    Description = $"The account **{arg.ToString()}** has been flagged down becuase it is was created less than 12 hours ago",
+                    Description = $"The account **{arg.ToString()}** has been flagged down because it was created less than 12 hours ago",
                     Fields = new List<EmbedFieldBuilder>()
                     {
                         {new EmbedFieldBuilder()
